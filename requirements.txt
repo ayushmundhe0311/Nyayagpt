@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-community
+langchain-huggingface
+langchain-chroma
+huggingface_hub>=0.23.0
+chromadb
+pypdf
+sentence-transformers
